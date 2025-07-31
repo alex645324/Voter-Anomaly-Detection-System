@@ -167,19 +167,3 @@ blockchain.add_block(new_block, proof)
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📝 License
-
-This project is designed for educational and research purposes in election security and fraud detection.
-
-## ⚠️ Disclaimer
-
-This system is intended for educational and research purposes. For production use in actual elections, additional security measures, compliance checks, and regulatory approvals may be required.
-
-## 📞 Support
-
-For questions or issues, please review the code comments and documentation included in the project files.
-
----
-
-**Note**: This system demonstrates advanced concepts in election security, blockchain technology, and anomaly detection. It serves as a foundation for understanding how modern voting systems can be secured against fraud and manipulation. 
